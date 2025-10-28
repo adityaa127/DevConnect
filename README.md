@@ -2,7 +2,7 @@
 
 An open-source social platform for developers built with the MERN stack. Forked and rebranded from DevConnector 2.0.
 
-# DevConnect 2.0
+# DevConnect 
 
 > Social network for developers
 
