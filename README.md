@@ -1,6 +1,6 @@
 # DevConnect – Developer Social Network
 
-An open-source social platform for developers built with the MERN stack. Forked and rebranded from DevConnector 2.0.
+An open-source social platform for developers built with the MERN stack.
 
 # DevConnect 
 
